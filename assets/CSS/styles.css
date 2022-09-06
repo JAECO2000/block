@@ -1,0 +1,18 @@
+:root {
+    --blue: #1f1d2c;
+    --blue-light: #242635;
+    --yelloy: #f1a600;
+    --grey: #e5e5e5;
+}
+
+body {
+    background-color: var(--blue);
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-family: 1.2rem;
+}
+
+/*==================helpers======================*/
+.text-yellow {
+    color: var(--yellow)!important;
+}
